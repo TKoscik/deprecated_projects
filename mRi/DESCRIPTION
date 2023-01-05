@@ -1,0 +1,13 @@
+Package: mRi
+Type: Package
+Title: Analysis of Functional MRI Data
+Version: 0.3
+Date: 2016-04-07
+Author: Timothy R. Koscik
+Maintainer: Timothy R. Koscik <timkoscik+mripkg@gmail.com>
+Description: Fit statistical models, voxel-wise, to fMRI data.  Utilities to read and write from NIFTI files are included.
+Imports: parallel, lmerTest, car, MASS, ggplot2, reshape2, effects, grid, gridExtra, DT
+Suggests: doParallel
+License: NO LICENSE, Copyright (c) 2017 Koscik, Timothy R. All Rights Reserved.
+NeedsCompilation: no
+Packaged: 2017-04-07 12:00:00 UTC; tim

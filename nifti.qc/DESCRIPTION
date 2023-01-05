@@ -1,0 +1,11 @@
+Package: nifti.qc
+Type: Package
+Title: Quality control metrics and reports for NIFTI data
+Version: 0.1.0
+Author: Timothy R. Koscik
+Maintainer: Timothy R. Koscik <timkoscik+niiqc@gmail.com>
+Description: Quality control metrics and reports for NIFTI data. Adapted from MRIQC <https://mriqc.readthedocs.io/en/stable/index.html>
+Imports: nifti.io, nifti.draw, nifti.cluster, mmand, ggplot2, reshape2, gridExtra, fitdistrplus, GenKern
+License: GNU General Public License v3.0
+Encoding: UTF-8
+LazyData: true

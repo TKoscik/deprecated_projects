@@ -1,0 +1,12 @@
+Package: nifti.cluster
+Type: Package
+Title: Clustering tools for NIFTI files
+Version: 0.1
+Date: 2018-06-22
+Author: Timothy R. Koscik
+Maintainer: Timothy R. Koscik <kosciklab+cluster@gmail.com>
+Description: A collection of clustering tools for NIFTI files
+License: MIT
+Imports: 
+Remotes: 
+  github::TKoscik/nifti.io

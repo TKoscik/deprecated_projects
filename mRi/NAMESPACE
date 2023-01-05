@@ -1,0 +1,2 @@
+exportPattern("^[[:alpha:]]+")
+import(parallel, lmerTest, car, MASS, ggplot2, reshape2, effects, grid, gridExtra, DT)
